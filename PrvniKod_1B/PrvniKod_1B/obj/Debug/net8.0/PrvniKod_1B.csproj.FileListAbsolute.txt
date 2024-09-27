@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\PrvniKod_1B\PrvniKod_1B\bin\Debug\net8.0\PrvniKod_1B.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\PrvniKod_1B\PrvniKod_1B\bin\Debug\net8.0\PrvniKod_1B.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\PrvniKod_1B\PrvniKod_1B\bin\Debug\net8.0\PrvniKod_1B.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\PrvniKod_1B\PrvniKod_1B\bin\Debug\net8.0\PrvniKod_1B.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\PrvniKod_1B\PrvniKod_1B\bin\Debug\net8.0\PrvniKod_1B.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\PrvniKod_1B\PrvniKod_1B\obj\Debug\net8.0\PrvniKod_1B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\PrvniKod_1B\PrvniKod_1B\obj\Debug\net8.0\PrvniKod_1B.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\PrvniKod_1B\PrvniKod_1B\obj\Debug\net8.0\PrvniKod_1B.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\PrvniKod_1B\PrvniKod_1B\obj\Debug\net8.0\PrvniKod_1B.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\PrvniKod_1B\PrvniKod_1B\obj\Debug\net8.0\PrvniKod_1B.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\PrvniKod_1B\PrvniKod_1B\obj\Debug\net8.0\PrvniKod_1B.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\PrvniKod_1B\PrvniKod_1B\obj\Debug\net8.0\refint\PrvniKod_1B.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\PrvniKod_1B\PrvniKod_1B\obj\Debug\net8.0\PrvniKod_1B.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\PrvniKod_1B\PrvniKod_1B\obj\Debug\net8.0\PrvniKod_1B.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\PrvniKod_1B\PrvniKod_1B\obj\Debug\net8.0\ref\PrvniKod_1B.dll
