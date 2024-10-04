@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "kod_hodina4_10/1.0.0": {
+        "runtime": {
+          "kod_hodina4_10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kod_hodina4_10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
