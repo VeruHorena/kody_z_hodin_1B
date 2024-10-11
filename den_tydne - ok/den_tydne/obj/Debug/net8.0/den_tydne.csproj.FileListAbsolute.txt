@@ -1,0 +1,28 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne\den_tydne\bin\Debug\net8.0\den_tydne.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne\den_tydne\bin\Debug\net8.0\den_tydne.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne\den_tydne\bin\Debug\net8.0\den_tydne.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne\den_tydne\bin\Debug\net8.0\den_tydne.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne\den_tydne\bin\Debug\net8.0\den_tydne.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne\den_tydne\obj\Debug\net8.0\refint\den_tydne.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne\den_tydne\obj\Debug\net8.0\ref\den_tydne.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne - ok\den_tydne\bin\Debug\net8.0\den_tydne.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne - ok\den_tydne\bin\Debug\net8.0\den_tydne.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne - ok\den_tydne\bin\Debug\net8.0\den_tydne.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne - ok\den_tydne\bin\Debug\net8.0\den_tydne.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne - ok\den_tydne\bin\Debug\net8.0\den_tydne.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne - ok\den_tydne\obj\Debug\net8.0\den_tydne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne - ok\den_tydne\obj\Debug\net8.0\den_tydne.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne - ok\den_tydne\obj\Debug\net8.0\den_tydne.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne - ok\den_tydne\obj\Debug\net8.0\den_tydne.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne - ok\den_tydne\obj\Debug\net8.0\den_tydne.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne - ok\den_tydne\obj\Debug\net8.0\refint\den_tydne.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne - ok\den_tydne\obj\Debug\net8.0\den_tydne.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne - ok\den_tydne\obj\Debug\net8.0\den_tydne.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh2\den_tydne - ok\den_tydne\obj\Debug\net8.0\ref\den_tydne.dll
