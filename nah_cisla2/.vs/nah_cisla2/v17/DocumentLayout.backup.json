@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\1. rocnik\\kody_z_hodin1B\\nah_cisla2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1420240C-C51F-4B6E-B9EA-A88EBD4E1E55}|nah_cisla2\\nah_cisla2.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\1. rocnik\\kody_z_hodin1b\\nah_cisla2\\nah_cisla2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1420240C-C51F-4B6E-B9EA-A88EBD4E1E55}|nah_cisla2\\nah_cisla2.csproj|solutionrelative:nah_cisla2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\1. rocnik\\kody_z_hodin1B\\nah_cisla2\\nah_cisla2\\Program.cs",
+              "RelativeDocumentMoniker": "nah_cisla2\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\1. rocnik\\kody_z_hodin1B\\nah_cisla2\\nah_cisla2\\Program.cs",
+              "RelativeToolTip": "nah_cisla2\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:58:36.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

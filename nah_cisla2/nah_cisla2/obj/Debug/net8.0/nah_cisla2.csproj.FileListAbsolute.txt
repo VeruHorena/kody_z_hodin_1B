@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\nah_cisla2\nah_cisla2\bin\Debug\net8.0\nah_cisla2.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\nah_cisla2\nah_cisla2\bin\Debug\net8.0\nah_cisla2.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\nah_cisla2\nah_cisla2\bin\Debug\net8.0\nah_cisla2.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\nah_cisla2\nah_cisla2\bin\Debug\net8.0\nah_cisla2.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\nah_cisla2\nah_cisla2\bin\Debug\net8.0\nah_cisla2.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\nah_cisla2\nah_cisla2\obj\Debug\net8.0\nah_cisla2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\nah_cisla2\nah_cisla2\obj\Debug\net8.0\nah_cisla2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\nah_cisla2\nah_cisla2\obj\Debug\net8.0\nah_cisla2.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\nah_cisla2\nah_cisla2\obj\Debug\net8.0\nah_cisla2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\nah_cisla2\nah_cisla2\obj\Debug\net8.0\nah_cisla2.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\nah_cisla2\nah_cisla2\obj\Debug\net8.0\refint\nah_cisla2.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\nah_cisla2\nah_cisla2\obj\Debug\net8.0\nah_cisla2.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\nah_cisla2\nah_cisla2\obj\Debug\net8.0\nah_cisla2.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\nah_cisla2\nah_cisla2\obj\Debug\net8.0\ref\nah_cisla2.dll
