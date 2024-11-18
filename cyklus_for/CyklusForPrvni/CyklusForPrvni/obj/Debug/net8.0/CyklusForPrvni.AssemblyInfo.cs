@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("prevodnik")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CyklusForPrvni")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b229b543480a29de117c8de2d8f69ebe7ff0ff3")]
-[assembly: System.Reflection.AssemblyProductAttribute("prevodnik")]
-[assembly: System.Reflection.AssemblyTitleAttribute("prevodnik")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("CyklusForPrvni")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CyklusForPrvni")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild

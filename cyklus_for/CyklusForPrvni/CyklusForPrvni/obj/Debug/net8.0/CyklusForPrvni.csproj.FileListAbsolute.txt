@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\cyklus_for\CyklusForPrvni\CyklusForPrvni\bin\Debug\net8.0\CyklusForPrvni.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\cyklus_for\CyklusForPrvni\CyklusForPrvni\bin\Debug\net8.0\CyklusForPrvni.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\cyklus_for\CyklusForPrvni\CyklusForPrvni\bin\Debug\net8.0\CyklusForPrvni.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\cyklus_for\CyklusForPrvni\CyklusForPrvni\bin\Debug\net8.0\CyklusForPrvni.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\cyklus_for\CyklusForPrvni\CyklusForPrvni\bin\Debug\net8.0\CyklusForPrvni.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\cyklus_for\CyklusForPrvni\CyklusForPrvni\obj\Debug\net8.0\CyklusForPrvni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\cyklus_for\CyklusForPrvni\CyklusForPrvni\obj\Debug\net8.0\CyklusForPrvni.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\cyklus_for\CyklusForPrvni\CyklusForPrvni\obj\Debug\net8.0\CyklusForPrvni.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\cyklus_for\CyklusForPrvni\CyklusForPrvni\obj\Debug\net8.0\CyklusForPrvni.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\cyklus_for\CyklusForPrvni\CyklusForPrvni\obj\Debug\net8.0\CyklusForPrvni.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\cyklus_for\CyklusForPrvni\CyklusForPrvni\obj\Debug\net8.0\refint\CyklusForPrvni.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\cyklus_for\CyklusForPrvni\CyklusForPrvni\obj\Debug\net8.0\CyklusForPrvni.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\cyklus_for\CyklusForPrvni\CyklusForPrvni\obj\Debug\net8.0\CyklusForPrvni.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\cyklus_for\CyklusForPrvni\CyklusForPrvni\obj\Debug\net8.0\ref\CyklusForPrvni.dll
