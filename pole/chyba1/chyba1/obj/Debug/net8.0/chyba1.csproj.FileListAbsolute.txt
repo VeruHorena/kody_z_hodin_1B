@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\pole\chyba1\chyba1\bin\Debug\net8.0\chyba1.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\pole\chyba1\chyba1\bin\Debug\net8.0\chyba1.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\pole\chyba1\chyba1\bin\Debug\net8.0\chyba1.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\pole\chyba1\chyba1\bin\Debug\net8.0\chyba1.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\pole\chyba1\chyba1\bin\Debug\net8.0\chyba1.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\pole\chyba1\chyba1\obj\Debug\net8.0\chyba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\pole\chyba1\chyba1\obj\Debug\net8.0\chyba1.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\pole\chyba1\chyba1\obj\Debug\net8.0\chyba1.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\pole\chyba1\chyba1\obj\Debug\net8.0\chyba1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\pole\chyba1\chyba1\obj\Debug\net8.0\chyba1.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\pole\chyba1\chyba1\obj\Debug\net8.0\chyba1.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\pole\chyba1\chyba1\obj\Debug\net8.0\refint\chyba1.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\pole\chyba1\chyba1\obj\Debug\net8.0\chyba1.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\pole\chyba1\chyba1\obj\Debug\net8.0\chyba1.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\pole\chyba1\chyba1\obj\Debug\net8.0\ref\chyba1.dll

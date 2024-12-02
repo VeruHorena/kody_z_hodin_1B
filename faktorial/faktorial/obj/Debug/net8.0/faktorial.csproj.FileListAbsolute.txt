@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\faktorial\faktorial\bin\Debug\net8.0\faktorial.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\faktorial\faktorial\bin\Debug\net8.0\faktorial.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\faktorial\faktorial\bin\Debug\net8.0\faktorial.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\faktorial\faktorial\bin\Debug\net8.0\faktorial.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\faktorial\faktorial\bin\Debug\net8.0\faktorial.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\faktorial\faktorial\obj\Debug\net8.0\faktorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\faktorial\faktorial\obj\Debug\net8.0\faktorial.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\faktorial\faktorial\obj\Debug\net8.0\faktorial.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\faktorial\faktorial\obj\Debug\net8.0\faktorial.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\faktorial\faktorial\obj\Debug\net8.0\faktorial.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\faktorial\faktorial\obj\Debug\net8.0\faktorial.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\faktorial\faktorial\obj\Debug\net8.0\refint\faktorial.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\faktorial\faktorial\obj\Debug\net8.0\faktorial.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\faktorial\faktorial\obj\Debug\net8.0\faktorial.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\faktorial\faktorial\obj\Debug\net8.0\ref\faktorial.dll

@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\Pole_ulohy\Pole_ulohy\bin\Debug\net8.0\Pole_ulohy.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\Pole_ulohy\Pole_ulohy\bin\Debug\net8.0\Pole_ulohy.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\Pole_ulohy\Pole_ulohy\bin\Debug\net8.0\Pole_ulohy.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\Pole_ulohy\Pole_ulohy\bin\Debug\net8.0\Pole_ulohy.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\Pole_ulohy\Pole_ulohy\bin\Debug\net8.0\Pole_ulohy.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\Pole_ulohy\Pole_ulohy\obj\Debug\net8.0\Pole_ulohy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\Pole_ulohy\Pole_ulohy\obj\Debug\net8.0\Pole_ulohy.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\Pole_ulohy\Pole_ulohy\obj\Debug\net8.0\Pole_ulohy.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\Pole_ulohy\Pole_ulohy\obj\Debug\net8.0\Pole_ulohy.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\Pole_ulohy\Pole_ulohy\obj\Debug\net8.0\Pole_ulohy.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\Pole_ulohy\Pole_ulohy\obj\Debug\net8.0\Pole_ulohy.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\Pole_ulohy\Pole_ulohy\obj\Debug\net8.0\refint\Pole_ulohy.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\Pole_ulohy\Pole_ulohy\obj\Debug\net8.0\Pole_ulohy.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\Pole_ulohy\Pole_ulohy\obj\Debug\net8.0\Pole_ulohy.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\Pole_ulohy\Pole_ulohy\obj\Debug\net8.0\ref\Pole_ulohy.dll
