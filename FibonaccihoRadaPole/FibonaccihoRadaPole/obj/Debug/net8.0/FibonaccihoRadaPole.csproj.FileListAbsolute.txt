@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\FibonaccihoRadaPole\FibonaccihoRadaPole\bin\Debug\net8.0\FibonaccihoRadaPole.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\FibonaccihoRadaPole\FibonaccihoRadaPole\bin\Debug\net8.0\FibonaccihoRadaPole.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\FibonaccihoRadaPole\FibonaccihoRadaPole\bin\Debug\net8.0\FibonaccihoRadaPole.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\FibonaccihoRadaPole\FibonaccihoRadaPole\bin\Debug\net8.0\FibonaccihoRadaPole.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\FibonaccihoRadaPole\FibonaccihoRadaPole\bin\Debug\net8.0\FibonaccihoRadaPole.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\FibonaccihoRadaPole\FibonaccihoRadaPole\obj\Debug\net8.0\FibonaccihoRadaPole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\FibonaccihoRadaPole\FibonaccihoRadaPole\obj\Debug\net8.0\FibonaccihoRadaPole.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\FibonaccihoRadaPole\FibonaccihoRadaPole\obj\Debug\net8.0\FibonaccihoRadaPole.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\FibonaccihoRadaPole\FibonaccihoRadaPole\obj\Debug\net8.0\FibonaccihoRadaPole.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\FibonaccihoRadaPole\FibonaccihoRadaPole\obj\Debug\net8.0\FibonaccihoRadaPole.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\FibonaccihoRadaPole\FibonaccihoRadaPole\obj\Debug\net8.0\FibonaccihoRadaPole.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\FibonaccihoRadaPole\FibonaccihoRadaPole\obj\Debug\net8.0\refint\FibonaccihoRadaPole.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\FibonaccihoRadaPole\FibonaccihoRadaPole\obj\Debug\net8.0\FibonaccihoRadaPole.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\FibonaccihoRadaPole\FibonaccihoRadaPole\obj\Debug\net8.0\FibonaccihoRadaPole.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\FibonaccihoRadaPole\FibonaccihoRadaPole\obj\Debug\net8.0\ref\FibonaccihoRadaPole.dll
