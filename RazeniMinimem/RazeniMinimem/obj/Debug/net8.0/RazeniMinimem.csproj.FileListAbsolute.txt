@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\RazeniMinimem\RazeniMinimem\bin\Debug\net8.0\RazeniMinimem.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\RazeniMinimem\RazeniMinimem\bin\Debug\net8.0\RazeniMinimem.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\RazeniMinimem\RazeniMinimem\bin\Debug\net8.0\RazeniMinimem.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\RazeniMinimem\RazeniMinimem\bin\Debug\net8.0\RazeniMinimem.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\RazeniMinimem\RazeniMinimem\bin\Debug\net8.0\RazeniMinimem.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\RazeniMinimem\RazeniMinimem\obj\Debug\net8.0\RazeniMinimem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\RazeniMinimem\RazeniMinimem\obj\Debug\net8.0\RazeniMinimem.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\RazeniMinimem\RazeniMinimem\obj\Debug\net8.0\RazeniMinimem.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\RazeniMinimem\RazeniMinimem\obj\Debug\net8.0\RazeniMinimem.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\RazeniMinimem\RazeniMinimem\obj\Debug\net8.0\RazeniMinimem.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\RazeniMinimem\RazeniMinimem\obj\Debug\net8.0\RazeniMinimem.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\RazeniMinimem\RazeniMinimem\obj\Debug\net8.0\refint\RazeniMinimem.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\RazeniMinimem\RazeniMinimem\obj\Debug\net8.0\RazeniMinimem.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\RazeniMinimem\RazeniMinimem\obj\Debug\net8.0\RazeniMinimem.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\RazeniMinimem\RazeniMinimem\obj\Debug\net8.0\ref\RazeniMinimem.dll
