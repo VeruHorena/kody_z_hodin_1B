@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\razeniStopwatch\razeniStopwatch\bin\Debug\net8.0\razeniStopwatch.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\razeniStopwatch\razeniStopwatch\bin\Debug\net8.0\razeniStopwatch.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\razeniStopwatch\razeniStopwatch\bin\Debug\net8.0\razeniStopwatch.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\razeniStopwatch\razeniStopwatch\bin\Debug\net8.0\razeniStopwatch.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\razeniStopwatch\razeniStopwatch\bin\Debug\net8.0\razeniStopwatch.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\razeniStopwatch\razeniStopwatch\obj\Debug\net8.0\razeniStopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\razeniStopwatch\razeniStopwatch\obj\Debug\net8.0\razeniStopwatch.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\razeniStopwatch\razeniStopwatch\obj\Debug\net8.0\razeniStopwatch.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\razeniStopwatch\razeniStopwatch\obj\Debug\net8.0\razeniStopwatch.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\razeniStopwatch\razeniStopwatch\obj\Debug\net8.0\razeniStopwatch.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\razeniStopwatch\razeniStopwatch\obj\Debug\net8.0\razeniStopwatch.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\razeniStopwatch\razeniStopwatch\obj\Debug\net8.0\refint\razeniStopwatch.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\razeniStopwatch\razeniStopwatch\obj\Debug\net8.0\razeniStopwatch.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\razeniStopwatch\razeniStopwatch\obj\Debug\net8.0\razeniStopwatch.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\razeniStopwatch\razeniStopwatch\obj\Debug\net8.0\ref\razeniStopwatch.dll
