@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyPozdrav\metodyPozdrav\bin\Debug\net8.0\metodyPozdrav.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyPozdrav\metodyPozdrav\bin\Debug\net8.0\metodyPozdrav.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyPozdrav\metodyPozdrav\bin\Debug\net8.0\metodyPozdrav.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyPozdrav\metodyPozdrav\bin\Debug\net8.0\metodyPozdrav.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyPozdrav\metodyPozdrav\bin\Debug\net8.0\metodyPozdrav.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyPozdrav\metodyPozdrav\obj\Debug\net8.0\metodyPozdrav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyPozdrav\metodyPozdrav\obj\Debug\net8.0\metodyPozdrav.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyPozdrav\metodyPozdrav\obj\Debug\net8.0\metodyPozdrav.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyPozdrav\metodyPozdrav\obj\Debug\net8.0\metodyPozdrav.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyPozdrav\metodyPozdrav\obj\Debug\net8.0\metodyPozdrav.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyPozdrav\metodyPozdrav\obj\Debug\net8.0\metodyPozdrav.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyPozdrav\metodyPozdrav\obj\Debug\net8.0\refint\metodyPozdrav.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyPozdrav\metodyPozdrav\obj\Debug\net8.0\metodyPozdrav.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyPozdrav\metodyPozdrav\obj\Debug\net8.0\metodyPozdrav.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyPozdrav\metodyPozdrav\obj\Debug\net8.0\ref\metodyPozdrav.dll
