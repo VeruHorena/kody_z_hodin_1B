@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\1. rocnik\\kody_z_hodin1B\\kody_z_hodin_1B\\metodyKalkulacka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A81B21C1-BF1F-4BE6-B275-AFF70D685B48}|metodyKalkulacka\\metodyKalkulacka.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\1. rocnik\\kody_z_hodin1b\\kody_z_hodin_1b\\metodykalkulacka\\metodykalkulacka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81B21C1-BF1F-4BE6-B275-AFF70D685B48}|metodyKalkulacka\\metodyKalkulacka.csproj|solutionrelative:metodykalkulacka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\1. rocnik\\kody_z_hodin1B\\kody_z_hodin_1B\\metodyKalkulacka\\metodyKalkulacka\\Program.cs",
+              "RelativeDocumentMoniker": "metodyKalkulacka\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\1. rocnik\\kody_z_hodin1B\\kody_z_hodin_1B\\metodyKalkulacka\\metodyKalkulacka\\Program.cs",
+              "RelativeToolTip": "metodyKalkulacka\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:06:36.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

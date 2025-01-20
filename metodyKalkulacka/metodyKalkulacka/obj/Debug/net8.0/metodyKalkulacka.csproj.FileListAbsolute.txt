@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyKalkulacka\metodyKalkulacka\bin\Debug\net8.0\metodyKalkulacka.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyKalkulacka\metodyKalkulacka\bin\Debug\net8.0\metodyKalkulacka.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyKalkulacka\metodyKalkulacka\bin\Debug\net8.0\metodyKalkulacka.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyKalkulacka\metodyKalkulacka\bin\Debug\net8.0\metodyKalkulacka.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyKalkulacka\metodyKalkulacka\bin\Debug\net8.0\metodyKalkulacka.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyKalkulacka\metodyKalkulacka\obj\Debug\net8.0\metodyKalkulacka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyKalkulacka\metodyKalkulacka\obj\Debug\net8.0\metodyKalkulacka.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyKalkulacka\metodyKalkulacka\obj\Debug\net8.0\metodyKalkulacka.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyKalkulacka\metodyKalkulacka\obj\Debug\net8.0\metodyKalkulacka.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyKalkulacka\metodyKalkulacka\obj\Debug\net8.0\metodyKalkulacka.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyKalkulacka\metodyKalkulacka\obj\Debug\net8.0\metodyKalkulacka.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyKalkulacka\metodyKalkulacka\obj\Debug\net8.0\refint\metodyKalkulacka.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyKalkulacka\metodyKalkulacka\obj\Debug\net8.0\metodyKalkulacka.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyKalkulacka\metodyKalkulacka\obj\Debug\net8.0\metodyKalkulacka.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\metodyKalkulacka\metodyKalkulacka\obj\Debug\net8.0\ref\metodyKalkulacka.dll
