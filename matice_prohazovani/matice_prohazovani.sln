@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matice_prohazovani", "matice_prohazovani\matice_prohazovani.csproj", "{730C7B60-F805-422D-BFBD-1E1C6DA1706D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{730C7B60-F805-422D-BFBD-1E1C6DA1706D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730C7B60-F805-422D-BFBD-1E1C6DA1706D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730C7B60-F805-422D-BFBD-1E1C6DA1706D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730C7B60-F805-422D-BFBD-1E1C6DA1706D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8824C6DD-0056-439D-864A-57013D96688B}
+	EndGlobalSection
+EndGlobal

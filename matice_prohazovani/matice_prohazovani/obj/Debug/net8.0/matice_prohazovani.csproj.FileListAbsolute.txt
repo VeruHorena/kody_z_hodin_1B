@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\matice_prohazovani\matice_prohazovani\bin\Debug\net8.0\matice_prohazovani.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\matice_prohazovani\matice_prohazovani\bin\Debug\net8.0\matice_prohazovani.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\matice_prohazovani\matice_prohazovani\bin\Debug\net8.0\matice_prohazovani.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\matice_prohazovani\matice_prohazovani\bin\Debug\net8.0\matice_prohazovani.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\matice_prohazovani\matice_prohazovani\bin\Debug\net8.0\matice_prohazovani.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\matice_prohazovani\matice_prohazovani\obj\Debug\net8.0\matice_prohazovani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\matice_prohazovani\matice_prohazovani\obj\Debug\net8.0\matice_prohazovani.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\matice_prohazovani\matice_prohazovani\obj\Debug\net8.0\matice_prohazovani.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\matice_prohazovani\matice_prohazovani\obj\Debug\net8.0\matice_prohazovani.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\matice_prohazovani\matice_prohazovani\obj\Debug\net8.0\matice_prohazovani.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\matice_prohazovani\matice_prohazovani\obj\Debug\net8.0\matice_prohazovani.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\matice_prohazovani\matice_prohazovani\obj\Debug\net8.0\refint\matice_prohazovani.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\matice_prohazovani\matice_prohazovani\obj\Debug\net8.0\matice_prohazovani.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\matice_prohazovani\matice_prohazovani\obj\Debug\net8.0\matice_prohazovani.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\matice_prohazovani\matice_prohazovani\obj\Debug\net8.0\ref\matice_prohazovani.dll
