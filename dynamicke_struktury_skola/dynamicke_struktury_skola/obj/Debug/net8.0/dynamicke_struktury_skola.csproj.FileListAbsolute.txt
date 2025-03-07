@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\dynamicke_struktury_skola\dynamicke_struktury_skola\bin\Debug\net8.0\dynamicke_struktury_skola.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\dynamicke_struktury_skola\dynamicke_struktury_skola\bin\Debug\net8.0\dynamicke_struktury_skola.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\dynamicke_struktury_skola\dynamicke_struktury_skola\bin\Debug\net8.0\dynamicke_struktury_skola.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\dynamicke_struktury_skola\dynamicke_struktury_skola\bin\Debug\net8.0\dynamicke_struktury_skola.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\dynamicke_struktury_skola\dynamicke_struktury_skola\bin\Debug\net8.0\dynamicke_struktury_skola.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\dynamicke_struktury_skola\dynamicke_struktury_skola\obj\Debug\net8.0\dynamicke_struktury_skola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\dynamicke_struktury_skola\dynamicke_struktury_skola\obj\Debug\net8.0\dynamicke_struktury_skola.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\dynamicke_struktury_skola\dynamicke_struktury_skola\obj\Debug\net8.0\dynamicke_struktury_skola.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\dynamicke_struktury_skola\dynamicke_struktury_skola\obj\Debug\net8.0\dynamicke_struktury_skola.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\dynamicke_struktury_skola\dynamicke_struktury_skola\obj\Debug\net8.0\dynamicke_struktury_skola.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\dynamicke_struktury_skola\dynamicke_struktury_skola\obj\Debug\net8.0\dynamicke_struktury_skola.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\dynamicke_struktury_skola\dynamicke_struktury_skola\obj\Debug\net8.0\refint\dynamicke_struktury_skola.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\dynamicke_struktury_skola\dynamicke_struktury_skola\obj\Debug\net8.0\dynamicke_struktury_skola.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\dynamicke_struktury_skola\dynamicke_struktury_skola\obj\Debug\net8.0\dynamicke_struktury_skola.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\dynamicke_struktury_skola\dynamicke_struktury_skola\obj\Debug\net8.0\ref\dynamicke_struktury_skola.dll
