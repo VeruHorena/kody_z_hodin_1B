@@ -33,10 +33,15 @@ namespace dynamicke_struktury_skola
                         else
                             Console.WriteLine("Student nenalezen.");
                         break;
-                    case 4: 
+                    case 4:
                         Console.WriteLine("Celkovy pocet zapsanych studentu: " + studenti.Count);
-                       foreach (string s in studenti)
+                        foreach (string s in studenti)
                             Console.WriteLine(s);
+                       
+                        /*for (int i = 0; i < studenti.Count; i++)
+                        {
+                            Console.WriteLine(studenti[i]);
+                        }*/
                         break;
 
 
