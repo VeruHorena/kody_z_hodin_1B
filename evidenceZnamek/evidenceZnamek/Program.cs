@@ -3,7 +3,7 @@
     internal class Program
     {
         static Dictionary<string, List<int>> studenti = new Dictionary<string, List<int>>();
-
+        static LinkedList<string> historie = new LinkedList<string>();
         static void Main()
         {
             while (true)
@@ -13,7 +13,8 @@
                 Console.WriteLine("2. Přidat známku studentovi");
                 Console.WriteLine("3. Zobrazit známky studenta");
                 Console.WriteLine("4. Výpis studentů");
-                Console.WriteLine("5. Ukončit");
+                Console.WriteLine("5. Výpis historie");
+                Console.WriteLine("6. Ukončit");
                 Console.Write("Vyberte možnost: ");
 
                 string volba = Console.ReadLine();
@@ -32,6 +33,9 @@
                         vypisVsechny();
                         break;
                     case "5":
+                        zobrazHistorii();
+                        break;
+                    case "6":
                         return;
                     default:
                         Console.WriteLine("Neplatná volba, zkuste to znovu.");
@@ -71,6 +75,7 @@
             {
                 studenti[jmeno].Add(znamka);
                 Console.WriteLine("Známka přidána.");
+                pridejDoHistorie($"{jmeno} - {znamka}");
             }
             else
             {
@@ -99,6 +104,24 @@
             foreach (var student in studenti)
             {
                 Console.WriteLine($"{student.Key} : {string.Join(", ", studenti[student.Key])}");
+            }
+        }
+
+        static void pridejDoHistorie(string zaznam)
+        {
+            if (historie.Count >= 5)
+            {
+                historie.RemoveFirst();
+            }
+            historie.AddLast(zaznam);
+        }
+
+        static void zobrazHistorii()
+        {
+            Console.WriteLine("Historie posledních 5 přidaných známek:");
+            foreach (string zaznam in historie)
+            {
+                Console.WriteLine(zaznam);
             }
         }
     }

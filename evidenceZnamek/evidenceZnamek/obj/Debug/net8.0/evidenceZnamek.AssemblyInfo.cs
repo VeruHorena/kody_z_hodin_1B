@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("evidenceZnamek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4e9dd01553972a1c3513dd81f20f1feba3d558b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21f82665ea4810f8e55ebbd9100f603343cf879c")]
 [assembly: System.Reflection.AssemblyProductAttribute("evidenceZnamek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("evidenceZnamek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
