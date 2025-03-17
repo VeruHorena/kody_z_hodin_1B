@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\evidenceZnamek\evidenceZnamek\bin\Debug\net8.0\evidenceZnamek.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\evidenceZnamek\evidenceZnamek\bin\Debug\net8.0\evidenceZnamek.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\evidenceZnamek\evidenceZnamek\bin\Debug\net8.0\evidenceZnamek.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\evidenceZnamek\evidenceZnamek\bin\Debug\net8.0\evidenceZnamek.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\evidenceZnamek\evidenceZnamek\bin\Debug\net8.0\evidenceZnamek.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\evidenceZnamek\evidenceZnamek\obj\Debug\net8.0\evidenceZnamek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\evidenceZnamek\evidenceZnamek\obj\Debug\net8.0\evidenceZnamek.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\evidenceZnamek\evidenceZnamek\obj\Debug\net8.0\evidenceZnamek.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\evidenceZnamek\evidenceZnamek\obj\Debug\net8.0\evidenceZnamek.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\evidenceZnamek\evidenceZnamek\obj\Debug\net8.0\evidenceZnamek.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\evidenceZnamek\evidenceZnamek\obj\Debug\net8.0\evidenceZnamek.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\evidenceZnamek\evidenceZnamek\obj\Debug\net8.0\refint\evidenceZnamek.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\evidenceZnamek\evidenceZnamek\obj\Debug\net8.0\evidenceZnamek.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\evidenceZnamek\evidenceZnamek\obj\Debug\net8.0\evidenceZnamek.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\evidenceZnamek\evidenceZnamek\obj\Debug\net8.0\ref\evidenceZnamek.dll
