@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\studentOOP\studentOOP\bin\Debug\net8.0\studentOOP.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\studentOOP\studentOOP\bin\Debug\net8.0\studentOOP.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\studentOOP\studentOOP\bin\Debug\net8.0\studentOOP.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\studentOOP\studentOOP\bin\Debug\net8.0\studentOOP.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\studentOOP\studentOOP\bin\Debug\net8.0\studentOOP.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\studentOOP\studentOOP\obj\Debug\net8.0\studentOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\studentOOP\studentOOP\obj\Debug\net8.0\studentOOP.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\studentOOP\studentOOP\obj\Debug\net8.0\studentOOP.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\studentOOP\studentOOP\obj\Debug\net8.0\studentOOP.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\studentOOP\studentOOP\obj\Debug\net8.0\studentOOP.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\studentOOP\studentOOP\obj\Debug\net8.0\studentOOP.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\studentOOP\studentOOP\obj\Debug\net8.0\refint\studentOOP.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\studentOOP\studentOOP\obj\Debug\net8.0\studentOOP.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\studentOOP\studentOOP\obj\Debug\net8.0\studentOOP.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin1B\kody_z_hodin_1B\studentOOP\studentOOP\obj\Debug\net8.0\ref\studentOOP.dll
