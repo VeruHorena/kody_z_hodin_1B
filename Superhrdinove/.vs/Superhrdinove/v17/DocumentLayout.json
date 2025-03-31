@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\1. rocnik\\kody_z_hodin_1A\\Superhrdinove\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{656523B6-3CAD-4699-920C-B94AF90107F5}|Superhrdinove\\Superhrdinove.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\1. rocnik\\kody_z_hodin_1a\\superhrdinove\\superhrdinove\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656523B6-3CAD-4699-920C-B94AF90107F5}|Superhrdinove\\Superhrdinove.csproj|solutionrelative:superhrdinove\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656523B6-3CAD-4699-920C-B94AF90107F5}|Superhrdinove\\Superhrdinove.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\1. rocnik\\kody_z_hodin_1a\\superhrdinove\\superhrdinove\\superhrdina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656523B6-3CAD-4699-920C-B94AF90107F5}|Superhrdinove\\Superhrdinove.csproj|solutionrelative:superhrdinove\\superhrdina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Superhrdina.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\1. rocnik\\kody_z_hodin_1A\\Superhrdinove\\Superhrdinove\\Superhrdina.cs",
+              "RelativeDocumentMoniker": "Superhrdinove\\Superhrdina.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\1. rocnik\\kody_z_hodin_1A\\Superhrdinove\\Superhrdinove\\Superhrdina.cs",
+              "RelativeToolTip": "Superhrdinove\\Superhrdina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:30:02.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\1. rocnik\\kody_z_hodin_1A\\Superhrdinove\\Superhrdinove\\Program.cs",
+              "RelativeDocumentMoniker": "Superhrdinove\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\1. rocnik\\kody_z_hodin_1A\\Superhrdinove\\Superhrdinove\\Program.cs",
+              "RelativeToolTip": "Superhrdinove\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:27:24.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

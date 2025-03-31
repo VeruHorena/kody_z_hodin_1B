@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\Superhrdinove\Superhrdinove\bin\Debug\net8.0\Superhrdinove.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\Superhrdinove\Superhrdinove\bin\Debug\net8.0\Superhrdinove.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\Superhrdinove\Superhrdinove\bin\Debug\net8.0\Superhrdinove.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\Superhrdinove\Superhrdinove\bin\Debug\net8.0\Superhrdinove.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\Superhrdinove\Superhrdinove\bin\Debug\net8.0\Superhrdinove.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\Superhrdinove\Superhrdinove\obj\Debug\net8.0\Superhrdinove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\Superhrdinove\Superhrdinove\obj\Debug\net8.0\Superhrdinove.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\Superhrdinove\Superhrdinove\obj\Debug\net8.0\Superhrdinove.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\Superhrdinove\Superhrdinove\obj\Debug\net8.0\Superhrdinove.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\Superhrdinove\Superhrdinove\obj\Debug\net8.0\Superhrdinove.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\Superhrdinove\Superhrdinove\obj\Debug\net8.0\Superhrdinove.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\Superhrdinove\Superhrdinove\obj\Debug\net8.0\refint\Superhrdinove.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\Superhrdinove\Superhrdinove\obj\Debug\net8.0\Superhrdinove.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\Superhrdinove\Superhrdinove\obj\Debug\net8.0\Superhrdinove.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\Superhrdinove\Superhrdinove\obj\Debug\net8.0\ref\Superhrdinove.dll
